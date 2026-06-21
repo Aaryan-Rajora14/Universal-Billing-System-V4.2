@@ -1,6 +1,8 @@
 # Universal Billing System v5.0
 
-A secure, offline billing and invoice system built with Flask and Excel. This project provides a desktop-friendly billing dashboard with PDF bill generation, QR codes, item returns, audit logging, admin controls, and configurable store settings.
+<img width="1920" height="1020" alt="Login · Billing System and 1 more page - Personal - Microsoft​ Edge 21-06-2026 08_54_56" src="https://github.com/user-attachments/assets/5824055c-0fd4-4209-825b-2cf9ef01b3a8" />
+
+A secure, offline billing and invoice system with fixed bugs and glitches built with Flask and Excel. This project provides a desktop-friendly billing dashboard with PDF bill generation, QR codes, item returns, audit logging, admin controls, and configurable store settings.
 
 ## Key Features
 
