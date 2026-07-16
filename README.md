@@ -105,4 +105,4 @@ Settings include:
 
 This project does not include a license file. Add one if you plan to share it publicly.
 
-Returns Update is coming in near Future.
+Big News - The Returns Update is coming this week.
