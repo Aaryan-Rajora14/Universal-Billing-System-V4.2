@@ -105,4 +105,4 @@ Settings include:
 
 This project does not include a license file. Add one if you plan to share it publicly.
 
-Big News - The Returns Update is coming this week.
+Notice -  New App with returns features is available.
