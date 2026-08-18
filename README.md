@@ -105,4 +105,4 @@ Settings include:
 
 This project does not include a license file. Add one if you plan to share it publicly.
 
-Notice -  New App with returns features is available.
+Notice -  New App with returns features is available. (Use it to increase traffic)
