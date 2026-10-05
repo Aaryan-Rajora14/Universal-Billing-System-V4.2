@@ -106,4 +106,4 @@ Settings include:
 This project does not include a license file. Add one if you plan to share it publicly.
 
 Notice: -
-Sorry Guys I have to take more time to make that app available online.
+There's No Notice
