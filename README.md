@@ -104,6 +104,3 @@ Settings include:
 ## License
 
 This project does not include a license file. Add one if you plan to share it publicly.
-
-Notice: -
-There's No Notice
