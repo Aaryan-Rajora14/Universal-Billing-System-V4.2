@@ -30,7 +30,7 @@ def main():
     # Open browser in background thread
     threading.Thread(target=open_browser, daemon=True).start()
 
-    # Start Flask
+    # Start Flask app
     os.environ.setdefault('PORT', str(PORT))
     from app import app
     app.run(host='0.0.0.0', port=PORT, debug=False, use_reloader=False)
